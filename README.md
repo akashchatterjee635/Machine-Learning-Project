@@ -9,3 +9,5 @@
 <p>In this project we used artificial neural network using tensorflow where I got pretty good accuracy of around 85%. I have also mentioned the classification report and a confusion matrix visualized through seaborn.</p>
 <h3>5. Image Recognition using CNN on CIFAR10 dataset</h3>
 <p>In this I have used CNN based model which gave me around 76% accuracy. I have shown the classification report and the confusion matrix using seaborn visualization.</p>
+<h3>6. NLP model to find word vector using Gensim library on product review dataset</h3>
+<p>In this model I made a word2vec to convert a word into its vector. We can compare words between them to find its similarity. This can be used in further NLP models.</p>
