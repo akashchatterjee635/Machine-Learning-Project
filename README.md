@@ -5,3 +5,5 @@
 <p>I have used an hr_data I have made a machine learning model that can predict whether an employee can leave his/her job or not </p>
 <h3>3. Hyper Parameter tunning of an iris dataset </h3>
 <p>The dataset is from sklearn library where we have taken 3 models to predict the type of iris. We have taken the best model from support vector machine, random forrest and logistic regression.</p>
+<h3>4.Churn prediction of telecom company and a bank using ANN</h3>
+<p>In this project we used artificial neural network using tensorflow where I got pretty good accuracy of around 85%. I have also mentioned the classification report and a confusion matrix visualized through seaborn.</p>
